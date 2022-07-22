@@ -43,7 +43,7 @@ For more CLI options see: `nexe --help`
 - `nexe server.js -r "public/**/*.html"`
 - `nexe --build`
 - `nexe -t x86-8.0.0`
-
+fdvdv
 ## Resources
 
 Additional files or resources can be added to the binary by passing `-r "glob/pattern/**/*"`. These included files can be read in the application by using `fs.readFile` or `fs.readFileSync`.
